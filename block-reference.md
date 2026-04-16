@@ -192,6 +192,11 @@ Most blocks either check something or do something:
 | `If player is animating` | Runs child blocks when the local player has an active animation. |
 | `If player is not animating` | Runs child blocks when the local player is loaded and has no active animation. |
 | `If player is idle` | Runs child blocks when the local player is not moving and not animating. |
+| `If player in area` | Runs child blocks when the local player is inside a rectangular area. |
+| `If player not in area` | Runs child blocks when the local player is loaded and outside a rectangular area. |
+| `If distance to coord less than` | Runs child blocks when the local player's distance to a coordinate is less than the provided distance. |
+| `If distance to coord more than` | Runs child blocks when the local player's distance to a coordinate is greater than the provided distance. |
+| `If distance to coord equal to` | Runs child blocks when the local player's distance to a coordinate equals the provided distance. |
 | `If nearby player exists` | Runs child blocks when another loaded player is within a distance. |
 | `If player in combat` | Runs child blocks when the local player has a target or visible health bar. |
 | `If player has target` | Runs child blocks when the local player has a target. |
