@@ -45,7 +45,7 @@ cow_killer
 ScriptForge saves it as:
 
 ```text
-<RSPeer data folder>/scriptforge/cow_killer.json
+%user%/inubot/data/scriptforge/cow_killer.json
 ```
 
 You normally do not need to type the folder or `.json`. ScriptForge adds those for you.

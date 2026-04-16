@@ -16,7 +16,7 @@ Then start ScriptForge.
 If `Script file` is `cow_killer`, the saved file will be:
 
 ```text
-<RSPeer data folder>/scriptforge/cow_killer.json
+%user%/inubot/data/scriptforge/cow_killer.json
 ```
 
 You can also use folders:
@@ -28,7 +28,7 @@ combat/cow_killer
 That saves under:
 
 ```text
-<RSPeer data folder>/scriptforge/combat/cow_killer.json
+%user%/inubot/data/scriptforge/combat/cow_killer.json
 ```
 
 ## Editor Layout
