@@ -32,6 +32,8 @@ ScriptForge is best for scripts made from clear actions and checks:
 - Mule or sell configured loot.
 - React to local player state such as moving, animating, health, combat, skull, teleblock, poison, or prayer.
 
+While this is what it's best for, it can do much more and it's possible to write full quest or boss scripts with it
+
 ## How Scripts Are Saved
 
 In the script config, you choose a `Script file`.
